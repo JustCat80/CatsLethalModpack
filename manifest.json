@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.2.1",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -19,6 +19,8 @@
     "squidypal-Discord_Rich_Presence-1.1.2",
     "NotAtomicBomb-Terminal_Clock-1.0.5",
     "FlipMods-LetMeLookDown-1.0.1",
-    "Clementinise-QuickTerminalRestart-1.0.3"
+    "Clementinise-QuickTerminalRestart-1.0.3",
+    "NavarroTech-MoreTerminalCommands-1.0.0",
+    "kRYstall9-FastSwitchPlayerViewInRadar-1.2.1"
     ]
 }
