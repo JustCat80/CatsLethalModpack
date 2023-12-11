@@ -10,6 +10,9 @@ Toggle Mute is a bit annoying until the author makes typing not trigger the keyb
 If there are updates to any of the mods, please create an issue or pull request on the [Github Page](https://github.com/JustCat80/CatsLethalModpack)
 
 # Changelog
+- 1.4.0
+    Change the [DiscordRP](https://thunderstore.io/c/lethal-company/p/Giltong/LethalCompanyDRP/) Mod;
+    Add [LCEnhancer](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer/) and some configs
 - 1.3.0
     Add [More Terminal Commands](https://thunderstore.io/c/lethal-company/p/NavarroTech/MoreTerminalCommands/) and [FastSwitchPlayerViewInRadar](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar/)
 - 1.2.1:
