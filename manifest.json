@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -8,19 +8,19 @@
     "BepInEx_Unofficial-BepInEx_ConfigurationManager-18.1.1",
     "notnotnotswipez-MoreCompany-1.7.1",
     "quackandcheese-ToggleMute-1.1.0",
-    "anormaltwig-LateCompany-1.0.4",
+    "anormaltwig-LateCompany-1.0.5",
     "NotAtomicBomb-TerminalApi-1.3.2",
     "NotAtomicBomb-Terminal_History-1.0.1",
     "tinyhoot-ShipLoot-1.0.0",
-    "Sligili-More_Emotes-1.1.2",
+    "Sligili-More_Emotes-1.1.3",
     "Drakorle-MoreItems-1.0.1",
     "Sligili-HDLethalCompany-1.5.3",
     "Giltong-LethalCompanyDRP-1.3.6",
     "NotAtomicBomb-Terminal_Clock-1.0.5",
     "FlipMods-LetMeLookDown-1.0.1",
     "Clementinise-QuickTerminalRestart-1.0.3",
-    "NavarroTech-MoreTerminalCommands-1.0.0",
+    "NavarroTech-MoreTerminalCommands-1.0.1",
     "kRYstall9-FastSwitchPlayerViewInRadar-1.2.1",
-    "Mom_Llama-Lethal_Company_Enhancer-0.1.7"
+    "Mom_Llama-Lethal_Company_Enhancer-0.1.8"
     ]
 }
