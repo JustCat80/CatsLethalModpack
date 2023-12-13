@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.4.3",
+    "version_number": "1.4.4",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -19,7 +19,7 @@
     "NotAtomicBomb-Terminal_Clock-1.0.5",
     "FlipMods-LetMeLookDown-1.0.1",
     "Clementinise-QuickTerminalRestart-1.0.3",
-    "NavarroTech-MoreTerminalCommands-1.0.1",
+    "NavarroTech-MoreTerminalCommands-1.0.2",
     "kRYstall9-FastSwitchPlayerViewInRadar-1.3.0",
     "Mom_Llama-Lethal_Company_Enhancer-0.1.8"
     ]
