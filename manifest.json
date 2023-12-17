@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.5.6",
+    "version_number": "1.5.7",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -24,6 +24,6 @@
     "Mom_Llama-Lethal_Company_Enhancer-0.1.8",
     "x753-More_Suits-1.4.1",
     "Rune580-LethalCompany_InputUtils-0.4.0",
-    "justcat8-CatsSuits-1.1.2"
+    "justcat8-CatsSuits-1.1.3"
     ]
 }
