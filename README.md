@@ -10,6 +10,8 @@ Toggle Mute is a bit annoying until the author makes typing not trigger the keyb
 If there are updates to any of the mods, please create an issue or pull request on the [Github Page](https://github.com/JustCat80/CatsLethalModpack)
 
 # Changelog
+-1.6.0
+    Swap out LateCompany for ShipLobby
 - 1.4.0
     Change the [DiscordRP](https://thunderstore.io/c/lethal-company/p/Giltong/LethalCompanyDRP/) Mod;
     Add [LCEnhancer](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer/) and some configs

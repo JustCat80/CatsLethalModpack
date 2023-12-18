@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.5.7",
+    "version_number": "1.6.0",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -8,7 +8,7 @@
     "BepInEx_Unofficial-BepInEx_ConfigurationManager-18.1.1",
     "notnotnotswipez-MoreCompany-1.7.2",
     "quackandcheese-ToggleMute-1.3.0",
-    "anormaltwig-LateCompany-1.0.6",
+    "tinyhoot-ShipLobby-1.0.2",
     "NotAtomicBomb-TerminalApi-1.4.0",
     "NotAtomicBomb-Terminal_History-1.0.1",
     "tinyhoot-ShipLoot-1.0.0",
