@@ -10,6 +10,8 @@ Toggle Mute is a bit annoying until the author makes typing not trigger the keyb
 If there are updates to any of the mods, please create an issue or pull request on the [Github Page](https://github.com/JustCat80/CatsLethalModpack)
 
 # Changelog
+-1.8.0
+    Update for v47
 -1.6.0
     Swap out LateCompany for ShipLobby
 - 1.4.0
