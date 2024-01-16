@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.7.5",
+    "version_number": "1.7.7",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
@@ -27,6 +27,7 @@
         "BepInEx_Unofficial-BepInEx_ConfigurationManager-18.1.1", 
         "Ozone-Runtime_Netcode_Patcher-0.2.5",
         "Hexnet111-SuitSaver-1.1.4",
-        "Ryokune-Better_Lobbies-1.0.3"
+        "Ryokune-Better_Lobbies-1.0.3",
+        "PupVR-Pups_Cute_Cosmetics-1.1.4"
     ]
 }
