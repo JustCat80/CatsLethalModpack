@@ -1,11 +1,13 @@
 # Changelog
--1.8.0
+- 1.8.1
+    Fix changelog
+- 1.8.0
     Update mods and change to the [LethalRichPresence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresence/) mod
--1.7.5
+- 1.7.5
     Add BetterShipLobbies
--1.7.0
+- 1.7.0
     Update for v47
--1.6.0
+- 1.6.0
     Swap out LateCompany for ShipLobby
 - 1.4.0
     Change the [DiscordRP](https://thunderstore.io/c/lethal-company/p/Giltong/LethalCompanyDRP/) Mod;

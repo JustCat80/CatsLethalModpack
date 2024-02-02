@@ -1,6 +1,6 @@
 {
     "name": "CatsLethalModpack",
-    "version_number": "1.8.0",
+    "version_number": "1.8.1",
     "website_url": "https://github.com/JustCat80/CatsLethalModpack",
     "description": "A modpack I made for some friends, Its mostly just client side tweaks with the More Company Mod",
     "dependencies": [
