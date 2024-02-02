@@ -1,4 +1,6 @@
 # Changelog
+- 1.8.2
+    Update README
 - 1.8.1
     Fix changelog
 - 1.8.0
