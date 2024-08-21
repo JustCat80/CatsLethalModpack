@@ -1,4 +1,4 @@
-## 1.9
+## 1.9.0
 
 - Update mods
 - Remove Depricated [MoreEmotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) mod in favor of the [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) mod
