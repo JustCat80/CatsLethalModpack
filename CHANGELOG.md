@@ -1,9 +1,10 @@
-## 1.9.0 - 1.9.1
+## 1.9.0 - 1.9.2
 
 - Update mods
 - Remove Depricated [MoreEmotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) mod in favor of the [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) mod
 - Update README
 - Remove HDLethalCompany
+- Remove LetMeLookDown
 
 ## 1.8.0 - 1.8.5
 
